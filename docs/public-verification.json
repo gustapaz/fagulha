@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-01",
+  "demo": "https://fagulha-gustapaz.starrylinen.chatgpt.site",
+  "application_commit": "12667a5b9e678dc1993ad3afe4365d5401afb4a9",
+  "automated_tests": 23,
+  "public_smoke": "passed",
+  "browser_flow": "passed",
+  "responsive_widths": [
+    390,
+    768
+  ],
+  "export": {
+    "filename": "fagulha.dot",
+    "bytes": 160,
+    "sha256": "39972e9b7f247801fc608b78e8bdbde6907221bc6e0448d6f03e809e2207e4a6",
+    "structure": "passed"
+  }
+}
