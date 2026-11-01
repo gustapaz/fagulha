@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "file": "public/media/subject.webp",
+      "author": "TStudio",
+      "source_url": "https://www.pexels.com/photo/close-up-of-cables-8071904/",
+      "download_url": "https://images.pexels.com/photos/8071904/pexels-photo-8071904.jpeg",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "verified_at": "2026-11-01T12:36:16.882220+00:00",
+      "source_sha256": "e373c5ee8028092031106bbeeaa08c250e3b6d360b2893c0120f84887dc35e8f",
+      "output_sha256": "b0a30e6936971ccf58c947b0cf25cc610c759722412bbf02229d5e9308c5c567",
+      "source_dimensions": [
+        6000,
+        3376
+      ],
+      "width": 1200,
+      "height": 433,
+      "bytes": 32392,
+      "transformations": [
+        "EXIF orientation applied",
+        "RGB conversion",
+        "Crop pixel box (1380, 0, 5400, 1451) to exclude equipment marks",
+        "long edge resized to maximum 1200px",
+        "EXIF removed",
+        "WebP quality 85, method 6"
+      ],
+      "visual_review": "Inspeção visual da versão final: sem faces identificáveis, marcas visíveis ou dados pessoais legíveis. Recortes usados em Doca, Rubato e Fagulha para excluir marcas de equipamentos.",
+      "usage": "Imagem de ambientação em demonstração de portfólio; não é produto para revenda e não implica endosso."
+    }
+  ]
+}

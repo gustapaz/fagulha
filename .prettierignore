@@ -1,0 +1,3 @@
+node_modules
+dist
+server/generated-validator.mjs

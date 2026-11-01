@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://fagulha-gustapaz.starrylinen.chatgpt.site/sitemap.xml

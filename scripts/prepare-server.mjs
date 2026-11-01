@@ -1,0 +1,1 @@
+import Ajv from 'ajv';import standalone from 'ajv/dist/standalone/index.js';import{writeFile}from'node:fs/promises';import{inputSchema}from'../server/input-schema.mjs';const ajv=new Ajv({code:{source:true,esm:true},unicode:false});const validate=ajv.compile(inputSchema);await writeFile(new URL('../server/generated-validator.mjs',import.meta.url),standalone(ajv,validate));
